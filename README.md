@@ -1,5 +1,5 @@
 👋 Hi,
-I’m Sujal Bhati,a 16 year old programmer
+I’m Sujal, a 17 year old programmer. Currently pursuing my undergrad at DTU.
 
 <!---
 sujalbhatii/sujalbhatii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
